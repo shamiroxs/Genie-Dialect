@@ -1,0 +1,6 @@
+print('\t **' * 2)
+print('\t\b\b *    *' * 2)
+print('\t\b\b *      *     *' )
+print('\t * \t  *')
+print('\t    *\t\b *')
+print('\t      *')
